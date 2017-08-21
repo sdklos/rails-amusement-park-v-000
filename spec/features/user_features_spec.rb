@@ -1,4 +1,5 @@
 require_relative "../rails_helper.rb"
+require 'pry'
 
 describe 'Feature Test: User Signup', :type => :feature do
 

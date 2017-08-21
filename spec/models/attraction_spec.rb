@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+require 'pry'
 RSpec.describe Attraction, :type => :model do
   before :each do
     @attraction = Attraction.create(
